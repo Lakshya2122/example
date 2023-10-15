@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: rgb(141, 196, 245);
+}
+
+.item-active 
+{
+    background-color: red;
+}
+
+
